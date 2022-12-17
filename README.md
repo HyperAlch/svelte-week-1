@@ -1,5 +1,10 @@
 # Svelte Lessons: *Week 1*
 
+## Download Project
+
+```bash
+git clone https://github.com/HyperAlch/svelte-week-1.git
+```
 
 ## Install Project
 
